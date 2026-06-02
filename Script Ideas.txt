@@ -1,0 +1,4 @@
+Script Ideas
+Automatic File Organizer - sorts based on extensions
+Duplicate file finder
+System cleaner
